@@ -110,7 +110,7 @@
 }
 
 .card__stars-star {
-  background-image: url(../images/star.svg);
+  background-image: url(/src/images/star.svg);
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 80%;
@@ -122,5 +122,5 @@
 .card__stars-star:nth-child(-n + 2),
 .card__stars-star:nth-child(-n + 3),
 .card__stars-star:nth-child(-n + 4) {
-  background-image: url(../images/star-active.svg);
+  background-image: url(/src/images/star-active.svg);
 }
